@@ -1,12 +1,12 @@
-commit QmZVBCSpRaq52nzTPx38avZ4mcbYH9qiJPr1Ap71f8x6zW
-Branch: HEAD
+commit QmPxnWJA6hTMyScWb8UrvsABeQH53E3mMFfTk7PAzCpQZH
+Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: f3e2843ca7989184eb5c0f60dfa8ff819eaa15262fe7e0e0f24198618d0da8cc6fb8e0f8c88edfb04c1b51111c96509ea556443c1978404201835aa8c4f19b5c01
+Signature: 54fc7ca93993993a7b7bad70aa41142d38c7fd60d012311fc8ae3582246ff55c6716ee851e9b652ff5583f8be39e04def1a474948af03f8e98d09786af25e5cd00
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmdxWP8ifJWynVdcxaEw4gLq2Lm6QtewLesSJqE6RBTs9V
-Commit CID if containing only file hashes: QmQi7bpHKgf2uTob2451fpWv5PhqtFPzbCtHDSK5nc3CXU
+Commit CID if including git's SHA1: QmNmeLatSinjK9QnVrH2XxfUDSwEq93S4cJu9Em7HKFdBB
+Commit CID if containing only file hashes: QmdgRrqmr8e68yZo3ehAMxuB6dRD2N1zVF24Kp5mPCH1pW
 
 ------------------------------
 
@@ -17,55 +17,15 @@ Remote URL:
 
 ------------------------------
 
-chown -h 1000:1000 '1/CarAITarget.3dr'
-chmod 0755 '1/CarAITarget.3dr'
-/usr/bin/touch -hcmd "2024-08-12 23:21:06.4247295000 -0300" '1/CarAITarget.3dr'
-/usr/bin/touch -hcad "2024-09-24 22:06:01.7580587000 -0300" '1/CarAITarget.3dr'
-chown -h 1000:1000 '10/CarWars.3dr'
-chmod 0755 '10/CarWars.3dr'
-/usr/bin/touch -hcmd "2024-08-16 06:13:38.0246187000 -0300" '10/CarWars.3dr'
-/usr/bin/touch -hcad "2024-09-24 22:05:33.9518580000 -0300" '10/CarWars.3dr'
-chown -h 1000:1000 '10/Tasks-0.txt'
-chmod 0755 '10/Tasks-0.txt'
-/usr/bin/touch -hcmd "2024-08-16 06:14:39.2600479000 -0300" '10/Tasks-0.txt'
-/usr/bin/touch -hcad "2024-09-24 22:06:09.9174094000 -0300" '10/Tasks-0.txt'
-chown -h 1000:1000 '10/Tasks.txt'
-chmod 0755 '10/Tasks.txt'
-/usr/bin/touch -hcmd "2024-08-16 06:19:12.7573896000 -0300" '10/Tasks.txt'
-/usr/bin/touch -hcad "2024-09-24 22:06:01.7760595000 -0300" '10/Tasks.txt'
-chown -h 1000:1000 '2/ProjectileDemo.3dr'
-chmod 0755 '2/ProjectileDemo.3dr'
-/usr/bin/touch -hcmd "2024-08-12 23:29:23.9127330000 -0300" '2/ProjectileDemo.3dr'
-/usr/bin/touch -hcad "2024-09-24 22:06:01.7770595000 -0300" '2/ProjectileDemo.3dr'
-chown -h 1000:1000 '3/ProjectileDemo.3dr'
-chmod 0755 '3/ProjectileDemo.3dr'
-/usr/bin/touch -hcmd "2024-08-13 15:01:44.8713823000 -0300" '3/ProjectileDemo.3dr'
-/usr/bin/touch -hcad "2024-09-24 22:06:01.7810597000 -0300" '3/ProjectileDemo.3dr'
-chown -h 1000:1000 '4/CarWars.3dr'
-chmod 0755 '4/CarWars.3dr'
-/usr/bin/touch -hcmd "2024-08-13 15:15:21.8403241000 -0300" '4/CarWars.3dr'
-/usr/bin/touch -hcad "2024-09-24 22:06:01.9030650000 -0300" '4/CarWars.3dr'
-chown -h 1000:1000 '5/CarWars.3dr'
-chmod 0755 '5/CarWars.3dr'
-/usr/bin/touch -hcmd "2024-08-15 22:11:31.2976173000 -0300" '5/CarWars.3dr'
-/usr/bin/touch -hcad "2024-09-24 22:06:01.9260659000 -0300" '5/CarWars.3dr'
-chown -h 1000:1000 '6/CarWars.3dr'
-chmod 0755 '6/CarWars.3dr'
-/usr/bin/touch -hcmd "2024-08-15 22:12:51.7026851000 -0300" '6/CarWars.3dr'
-/usr/bin/touch -hcad "2024-09-24 22:06:01.9390665000 -0300" '6/CarWars.3dr'
-chown -h 1000:1000 '7/CarWars.3dr'
-chmod 0755 '7/CarWars.3dr'
-/usr/bin/touch -hcmd "2024-08-15 22:26:58.1539084000 -0300" '7/CarWars.3dr'
-/usr/bin/touch -hcad "2024-09-24 22:06:01.9520671000 -0300" '7/CarWars.3dr'
-chown -h 1000:1000 '7/CarWars.cmp'
-chmod 0755 '7/CarWars.cmp'
-/usr/bin/touch -hcmd "2024-08-15 23:40:54.8868347000 -0300" '7/CarWars.cmp'
-/usr/bin/touch -hcad "2024-09-24 22:06:01.9930688000 -0300" '7/CarWars.cmp'
-chown -h 1000:1000 '8/CarWars.3dr'
-chmod 0755 '8/CarWars.3dr'
-/usr/bin/touch -hcmd "2024-08-15 23:49:25.4642582000 -0300" '8/CarWars.3dr'
-/usr/bin/touch -hcad "2024-09-24 22:06:01.9930688000 -0300" '8/CarWars.3dr'
-chown -h 1000:1000 '9/CarWars.3dr'
-chmod 0755 '9/CarWars.3dr'
-/usr/bin/touch -hcmd "2024-08-15 23:57:54.9468025000 -0300" '9/CarWars.3dr'
-/usr/bin/touch -hcad "2024-09-24 22:06:02.0070694000 -0300" '9/CarWars.3dr'
+chown -h 1000:1000 '.folderstamp1'
+chmod 0664 '.folderstamp1'
+/usr/bin/touch -hcmd "2024-09-24 22:06:58.8274972000 -0300" '.folderstamp1'
+/usr/bin/touch -hcad "2024-09-24 22:07:36.5700923000 -0300" '.folderstamp1'
+chown -h 1000:1000 '1/CarWars.3dr'
+chmod 0755 '1/CarWars.3dr'
+/usr/bin/touch -hcmd "2024-08-16 06:13:38.0246187000 -0300" '1/CarWars.3dr'
+/usr/bin/touch -hcad "2024-09-24 22:05:33.9518580000 -0300" '1/CarWars.3dr'
+chown -h 1000:1000 '1/Tasks.txt'
+chmod 0755 '1/Tasks.txt'
+/usr/bin/touch -hcmd "2024-08-16 06:19:12.7573896000 -0300" '1/Tasks.txt'
+/usr/bin/touch -hcad "2024-09-24 22:06:01.7760595000 -0300" '1/Tasks.txt'

@@ -1,0 +1,185 @@
+This folder: /media/daniella/Ubuntu/Windows/CarWars
+
+folderstamp version: r5
+Method: Recursive
+
+  File: ./.folderstamp
+  Size: 95        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,66	Inode: 6081        Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-24 22:06:57.663447800 -0300
+Modify: 2024-09-24 22:06:57.691449000 -0300
+Change: 2024-09-24 22:06:57.691449000 -0300
+ Birth: 2024-09-24 22:06:57.663447800 -0300
+IPFS hash: QmYP5BTB2ur1KrneYLwz7GBHarf1mr6ZdAQTCtwLvwLKRy
+------------------------------
+  File: ./.gitmeta/.gitmeta
+  Size: 3513      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,66	Inode: 6052        Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-24 22:06:15.667656200 -0300
+Modify: 2024-09-24 22:06:15.662656000 -0300
+Change: 2024-09-24 22:06:15.662656000 -0300
+ Birth: 2024-09-24 22:06:10.543436300 -0300
+IPFS hash: QmSMtG4nB8mnHarhjGHNdn9XYn8gLzi7NzfTKx2h2kHuwb
+------------------------------
+  File: ./.gitmeta/cids.txt
+  Size: 658       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,66	Inode: 6049        Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-24 22:06:10.534435900 -0300
+Modify: 2024-09-24 22:06:10.489434000 -0300
+Change: 2024-09-24 22:06:10.489434000 -0300
+ Birth: 2024-09-24 22:06:09.699400100 -0300
+IPFS hash: QmZVBCSpRaq52nzTPx38avZ4mcbYH9qiJPr1Ap71f8x6zW
+------------------------------
+  File: ./.gitmeta/cids_detailed/files-only.txt
+  Size: 611       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,66	Inode: 6051        Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-24 22:06:15.602653400 -0300
+Modify: 2024-09-24 22:06:10.489434000 -0300
+Change: 2024-09-24 22:06:10.489434000 -0300
+ Birth: 2024-09-24 22:06:09.816405100 -0300
+IPFS hash: QmQi7bpHKgf2uTob2451fpWv5PhqtFPzbCtHDSK5nc3CXU
+------------------------------
+  File: ./.gitmeta/cids_detailed/with-sha1.txt
+  Size: 663       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,66	Inode: 6050        Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-24 22:06:15.559651500 -0300
+Modify: 2024-09-24 22:06:10.489434000 -0300
+Change: 2024-09-24 22:06:10.489434000 -0300
+ Birth: 2024-09-24 22:06:09.703400200 -0300
+IPFS hash: QmdxWP8ifJWynVdcxaEw4gLq2Lm6QtewLesSJqE6RBTs9V
+------------------------------
+  File: ./1/CarAITarget.3dr
+  Size: 89188     	Blocks: 176        IO Block: 4096   regular file
+Device: 8,66	Inode: 199         Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-24 22:06:01.758058700 -0300
+Modify: 2024-08-12 23:21:06.424729500 -0300
+Change: 2024-08-20 00:00:11.701174600 -0300
+ Birth: 2024-09-17 18:51:09.315317400 -0300
+IPFS hash: QmeEdcqycgt5S9vJds1B8xNouWST58jPur7BK4DdPJrSsg
+------------------------------
+  File: ./10/CarWars.3dr
+  Size: 404266    	Blocks: 792        IO Block: 4096   regular file
+Device: 8,66	Inode: 1939        Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-24 22:05:33.951858000 -0300
+Modify: 2024-08-16 06:13:38.024618700 -0300
+Change: 2024-08-20 00:00:11.701174600 -0300
+ Birth: 2024-09-17 18:51:09.692777400 -0300
+IPFS hash: QmW1LFTF2PEJtwTARc9gRjaGqW7bCJ5N3UtgxE2SeBqW15
+------------------------------
+  File: ./10/Tasks-0.txt
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,66	Inode: 2197        Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-24 22:06:09.917409400 -0300
+Modify: 2024-08-16 06:14:39.260047900 -0300
+Change: 2024-08-20 00:00:11.701174600 -0300
+ Birth: 2024-09-17 18:51:09.900328600 -0300
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
+  File: ./10/Tasks.txt
+  Size: 651       	Blocks: 1          IO Block: 4096   regular file
+Device: 8,66	Inode: 2213        Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-24 22:06:01.776059500 -0300
+Modify: 2024-08-16 06:19:12.757389600 -0300
+Change: 2024-08-20 00:00:11.701174600 -0300
+ Birth: 2024-09-17 18:51:09.906319300 -0300
+IPFS hash: QmWfv9znsULf82hJHrashrDgoZkb4advnZFqx8FBwU9SzW
+------------------------------
+  File: ./2/ProjectileDemo.3dr
+  Size: 260430    	Blocks: 512        IO Block: 4096   regular file
+Device: 8,66	Inode: 2347        Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-24 22:06:01.777059500 -0300
+Modify: 2024-08-12 23:29:23.912733000 -0300
+Change: 2024-08-20 00:00:11.702183500 -0300
+ Birth: 2024-09-17 18:51:10.120302100 -0300
+IPFS hash: QmXCDF6nYCYzwjUY5u8VZk7PGg7KzQwfeWTxnvZEv3TT1i
+------------------------------
+  File: ./3/ProjectileDemo.3dr
+  Size: 260426    	Blocks: 512        IO Block: 4096   regular file
+Device: 8,66	Inode: 2433        Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-24 22:06:01.781059700 -0300
+Modify: 2024-08-13 15:01:44.871382300 -0300
+Change: 2024-08-20 00:00:11.702183500 -0300
+ Birth: 2024-09-17 18:51:10.145844200 -0300
+IPFS hash: QmTyNSGbd9m8F3amntE7GDM82CtXzxZ81SLjc37Z9RbN4L
+------------------------------
+  File: ./4/CarWars.3dr
+  Size: 319002    	Blocks: 624        IO Block: 4096   regular file
+Device: 8,66	Inode: 4962        Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-24 22:06:01.903065000 -0300
+Modify: 2024-08-13 15:15:21.840324100 -0300
+Change: 2024-08-20 00:00:11.703186700 -0300
+ Birth: 2024-09-17 18:51:10.167840900 -0300
+IPFS hash: QmehhnrNmJMHL4gnbZj9sA9NEXhiqcdh6UJK6PqWwJyugb
+------------------------------
+  File: ./5/CarWars.3dr
+  Size: 359686    	Blocks: 704        IO Block: 4096   regular file
+Device: 8,66	Inode: 4989        Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-24 22:06:01.926065900 -0300
+Modify: 2024-08-15 22:11:31.297617300 -0300
+Change: 2024-08-20 00:00:11.703186700 -0300
+ Birth: 2024-09-17 18:51:10.188841500 -0300
+IPFS hash: QmbHeXxKuee8Fpsbdqsg76cyfQArURbME4iFhPK4t7nmoL
+------------------------------
+  File: ./6/CarWars.3dr
+  Size: 387486    	Blocks: 760        IO Block: 4096   regular file
+Device: 8,66	Inode: 4992        Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-24 22:06:01.939066500 -0300
+Modify: 2024-08-15 22:12:51.702685100 -0300
+Change: 2024-08-20 00:00:11.703186700 -0300
+ Birth: 2024-09-17 18:51:10.210119800 -0300
+IPFS hash: QmPkcheCH4hMpLtF6Da8xAbebadLhfAzQgpAFRqa67XEiP
+------------------------------
+  File: ./7/CarWars.3dr
+  Size: 387966    	Blocks: 760        IO Block: 4096   regular file
+Device: 8,66	Inode: 4996        Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-24 22:06:01.952067100 -0300
+Modify: 2024-08-15 22:26:58.153908400 -0300
+Change: 2024-08-20 00:00:11.703186700 -0300
+ Birth: 2024-09-17 18:51:10.230152400 -0300
+IPFS hash: QmemFhLPE2Pv2Q5fxH973W8p8jr8t8t5zDA4oFPELTwjj9
+------------------------------
+  File: ./7/CarWars.cmp
+  Size: 5208      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,66	Inode: 5194        Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-24 22:06:01.993068800 -0300
+Modify: 2024-08-15 23:40:54.886834700 -0300
+Change: 2024-08-20 00:00:11.704177400 -0300
+ Birth: 2024-09-17 18:51:10.241679900 -0300
+IPFS hash: QmYUASViKxRJaeUnPNURDbooReVy7oz2ND8C6qB3XZKmeC
+------------------------------
+  File: ./8/CarWars.3dr
+  Size: 390366    	Blocks: 768        IO Block: 4096   regular file
+Device: 8,66	Inode: 5241        Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-24 22:06:01.993068800 -0300
+Modify: 2024-08-15 23:49:25.464258200 -0300
+Change: 2024-08-20 00:00:11.704177400 -0300
+ Birth: 2024-09-17 18:51:10.260379900 -0300
+IPFS hash: QmRrbL5PfBcsrKP2ieCjQGMMjrDowjDyFAjBeuUGeK5ZQv
+------------------------------
+  File: ./9/CarWars.3dr
+  Size: 404266    	Blocks: 792        IO Block: 4096   regular file
+Device: 8,66	Inode: 5375        Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-24 22:06:02.007069400 -0300
+Modify: 2024-08-15 23:57:54.946802500 -0300
+Change: 2024-08-20 00:00:11.704177400 -0300
+ Birth: 2024-09-17 18:51:10.281900900 -0300
+IPFS hash: QmVP6AtwsfFJ46PLSgSBKcjBuD1HbjrrvHrkVqNpVVf48Y
+------------------------------

@@ -1,0 +1,7 @@
+- make car skinmeshes respond to physics (such as getting hit by bullets), so make them a joint with their respective car
+- fulfill trees with their cocoons and lights in the first bridge
+- make a terrain that will be atop the 2nd one, requiring a bigger funnier bridge to walk into
+- buggy car AI, chasing both player and opponent
+- moon bullets for opponent, try to make it shot together with the player, or every some seconds using a timer (every sec) instead of input!
+
+- put an object at the top of opponent (rename it to enemy1), so when it is colliding with Terrain for more than 15 seconds, make it disappear and do a prize to the player
